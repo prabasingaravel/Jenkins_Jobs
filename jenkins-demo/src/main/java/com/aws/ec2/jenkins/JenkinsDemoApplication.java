@@ -11,7 +11,7 @@ public class JenkinsDemoApplication {
 
 	@GetMapping("/")
 	public String home() {
-		return "Jenkins Job build successfully...!!!!";
+		return "Jenkins Job triggered successfully...!!!!";
 	}
 	
 	public static void main(String[] args) {
