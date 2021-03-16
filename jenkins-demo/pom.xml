@@ -12,7 +12,7 @@
 	<artifactId>jenkins-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jenkins-demo</name>
-	<description>Jenkins build demo</description>
+	<description>Jenkins Jobs</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
